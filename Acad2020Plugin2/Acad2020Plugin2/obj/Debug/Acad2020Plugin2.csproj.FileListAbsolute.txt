@@ -1,0 +1,22 @@
+C:\Users\kmiletic\source\repos\Acad2020Plugin2\Acad2020Plugin2\bin\Debug\Acad2020Plugin2.dll
+C:\Users\kmiletic\source\repos\Acad2020Plugin2\Acad2020Plugin2\bin\Debug\Acad2020Plugin2.pdb
+C:\Users\kmiletic\source\repos\Acad2020Plugin2\Acad2020Plugin2\obj\Debug\Acad2020Plugin2.csprojAssemblyReference.cache
+C:\Users\kmiletic\source\repos\Acad2020Plugin2\Acad2020Plugin2\obj\Debug\Acad2020Plugin2.dll
+C:\Users\kmiletic\source\repos\Acad2020Plugin2\Acad2020Plugin2\obj\Debug\Acad2020Plugin2.pdb
+C:\Users\kmiletic\source\repos\Acad2020Plugin2\Acad2020Plugin2\obj\Debug\Acad2020Plugin2.Form1.resources
+C:\Users\kmiletic\source\repos\Acad2020Plugin2\Acad2020Plugin2\obj\Debug\Acad2020Plugin2.csproj.GenerateResource.cache
+C:\Users\swift\Desktop\Plovni put App\Acad2020Plugin2\Acad2020Plugin2\bin\Debug\Acad2020Plugin2.dll
+C:\Users\swift\Desktop\Plovni put App\Acad2020Plugin2\Acad2020Plugin2\bin\Debug\Acad2020Plugin2.pdb
+C:\Users\swift\Desktop\Plovni put App\Acad2020Plugin2\Acad2020Plugin2\obj\Debug\Acad2020Plugin2.csproj.GenerateResource.cache
+C:\Users\swift\Desktop\Plovni put App\Acad2020Plugin2\Acad2020Plugin2\obj\Debug\Acad2020Plugin2.dll
+C:\Users\swift\Desktop\Plovni put App\Acad2020Plugin2\Acad2020Plugin2\obj\Debug\Acad2020Plugin2.pdb
+C:\Users\swift\Desktop\Plovni put App\Acad2020Plugin2\Acad2020Plugin2\obj\Debug\Acad2020Plugin2.PlovniPutApp.resources
+C:\Users\kmiletic\Desktop\Plovni put App\Acad2020Plugin2\Acad2020Plugin2\bin\Debug\Acad2020Plugin2.dll
+C:\Users\kmiletic\Desktop\Plovni put App\Acad2020Plugin2\Acad2020Plugin2\bin\Debug\Acad2020Plugin2.pdb
+C:\Users\kmiletic\Desktop\Plovni put App\Acad2020Plugin2\Acad2020Plugin2\obj\Debug\Acad2020Plugin2.PlovniPutApp.resources
+C:\Users\kmiletic\Desktop\Plovni put App\Acad2020Plugin2\Acad2020Plugin2\obj\Debug\Acad2020Plugin2.csproj.GenerateResource.cache
+C:\Users\kmiletic\Desktop\Plovni put App\Acad2020Plugin2\Acad2020Plugin2\obj\Debug\Acad2020Plugin2.dll
+C:\Users\kmiletic\Desktop\Plovni put App\Acad2020Plugin2\Acad2020Plugin2\obj\Debug\Acad2020Plugin2.pdb
+C:\Users\swift\Desktop\Plovni put App\Acad2020Plugin2\Acad2020Plugin2\obj\Debug\Acad2020Plugin2.csprojAssemblyReference.cache
+C:\Users\kmiletic\Desktop\Plovni put App\Acad2020Plugin2\Acad2020Plugin2\obj\Debug\Acad2020Plugin2.csprojAssemblyReference.cache
+C:\Users\swift\Desktop\Plovni put App\Acad2020Plugin2\Acad2020Plugin2\obj\Debug\Acad2020Plugin2.csproj.CoreCompileInputs.cache
